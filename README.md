@@ -1,4 +1,4 @@
-# LEON: LLM-efficient Object Notation (Compact Version)
+# LEON: LLM-efficient Object Notation
 
 LEON is a high-performance, token-efficient data serialization format designed specifically for LLMs. It combines the compactness of JSON minification with advanced compression techniques like flat uniform tables and short-codes for primitives.
 
